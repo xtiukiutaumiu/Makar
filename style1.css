@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: blue;
+    color:white;
+}
+h1{
+    color:white;
+    background-color: rgb(79, 134, 116);
+}
+footer {
+    color:wheat;
+    background-color: blueviolet;
+}
+
